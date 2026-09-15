@@ -1,0 +1,2 @@
+# exercicio_de_gerenciamento_2026_anhanguera
+Exercicio de gerenciamento de configuração
